@@ -15,7 +15,7 @@ Platform assembly: C:\Users\Maciej\Desktop\Sorcerer\skeleton_Data\Managed\Assemb
 Loading C:\Users\Maciej\Desktop\Sorcerer\skeleton_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
 Platform assembly: C:\Users\Maciej\Desktop\Sorcerer\skeleton_Data\Managed\Photon3Unity3D.dll (this message is harmless)
 Loading C:\Users\Maciej\Desktop\Sorcerer\skeleton_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-- Completed reload, in  0.078 seconds
+- Completed reload, in  0.122 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
@@ -42,7 +42,7 @@ Platform assembly: C:\Users\Maciej\Desktop\Sorcerer\skeleton_Data\Managed\Assemb
 Loading C:\Users\Maciej\Desktop\Sorcerer\skeleton_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
 Platform assembly: C:\Users\Maciej\Desktop\Sorcerer\skeleton_Data\Managed\Photon3Unity3D.dll (this message is harmless)
 Loading C:\Users\Maciej\Desktop\Sorcerer\skeleton_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-- Completed reload, in  0.108 seconds
+- Completed reload, in  0.088 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
